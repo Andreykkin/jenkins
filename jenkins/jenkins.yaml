@@ -11,7 +11,7 @@ metadata:
   namespace: ci-cd
 type: Opaque
 data:
-  password: amVua2lucy1wYXNzd29yZAo=
+  password: amVua2lucy1wYXNzd29yZA==
 ---
 apiVersion: rbac.authorization.k8s.io/v1
 kind: ClusterRoleBinding
@@ -115,7 +115,7 @@ data:
                   id: "some_randome"
                   password: "XXXXXXXXXXX"
                   scope: GLOBAL
-                  username: "git_hub_user11
+                  username: "git_hub_user11"
         unclassified:
           location:
             adminAddress: "pluhin@gmail.com"
